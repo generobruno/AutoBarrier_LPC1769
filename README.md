@@ -7,6 +7,8 @@ registro.
 Si un administrador quiere revisar ese registro puede ingresar otro código y el mismo se transmitirá por comunicación serie a una computadora.
 Además, se podrán registrar usuarios desde el teclado. Cuando el sensor detecta que un auto ya cruzó la barrera, la cierra.
 
+![image](https://github.com/generobruno/AutoBarrier_LPC1769/assets/36767810/5130ef19-194b-4283-89f7-600118928efb)
+
 Funciones de usuario:
 <ul>
   <li>Permitir el acceso solo al personal con código autorizado.
